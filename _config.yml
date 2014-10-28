@@ -1,0 +1,10 @@
+# Site settings
+title: Leo's Website
+email: lrodriguessantanadeandrade@albany.edu
+description: Leo is a student
+url: lgoeb.github.io
+github_username: lgoeb
+
+# Build settings
+markdown: kramdown
+permalink: pretty
