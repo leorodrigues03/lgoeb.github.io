@@ -19,12 +19,12 @@ layout: post
 * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 * Aliquam tincidunt mauris eu risus.
  
-<img src="http://i.imgur.com/v1gUYem.gif" alt="cat gif">
- 
-<pre><code>
+![cat gif](http://i.imgur.com/v1gUYem.gif) 
+
+```css
 #header h1 a { 
 	display: block; 
 	width: 300px; 
 	height: 80px; 
 }
-</code></pre>
+```
