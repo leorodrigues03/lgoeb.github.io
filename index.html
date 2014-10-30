@@ -8,9 +8,9 @@ layout: default
 
 <ul>
   {% for post in site.posts %}
-    <img src="{{post.image}}" alt="">
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
+    <img src="{{post.image}}" alt=""> <br />
   {% endfor %}
 </ul>
