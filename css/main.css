@@ -123,6 +123,9 @@ a:hover {
 .nav-link:hover {
 	background: lightblue;
 }
+.nav-link:active {
+	background:tomato;
+}
 
 /* Columns */
 
